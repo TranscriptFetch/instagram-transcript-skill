@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TranscriptFetch/instagram-transcript-skill/main/assets/logo.png" alt="TranscriptFetch" width="84" height="84" />
+</p>
+
 # Instagram Transcript Skill
 
 An agent skill that gives Claude Code, Codex, Cursor and other AI agents Instagram transcripts, through the [TranscriptFetch](https://transcriptfetch.com/?utm_source=github&utm_medium=skill&utm_campaign=instagram-transcript-skill) API.
